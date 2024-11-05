@@ -22,7 +22,7 @@ section{
 }
 
 #hero{
-    background-image: url("/save-greenimals/images/background.jpg");
+    /* background-image: url("/save-greenimals/images/background.jpg"); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
